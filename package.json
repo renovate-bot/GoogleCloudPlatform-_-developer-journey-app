@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@google-cloud/firestore": "^7.6.0",
-    "@headlessui/react": "^1.7.13",
+    "@headlessui/react": "^2.0.0",
     "@heroicons/react": "^2.0.16",
     "@reduxjs/toolkit": "^1.9.3",
     "next": "14.2.21",
